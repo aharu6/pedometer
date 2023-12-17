@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">pedrmeter</string>
+    <string name="step_count_label">歩数:%1$d</string>
+</resources>
