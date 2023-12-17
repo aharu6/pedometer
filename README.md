@@ -1,1 +1,2 @@
-# AndroidAppBase
+# pedometer
+歩数計
